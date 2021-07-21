@@ -84,3 +84,12 @@
 ## Used moment.js in backend ,which has to replced with luxon  (in timeAndDateConroller.js)
 
 <p> In frontend , instead of moment ,used luxon.js </p>
+
+## NOTE : 
+The website doesn't do any backend validations as of now on the information provided by admins.
+
+<ol> 
+<li> Hosted on : </li>
+<p> Heroku
+</ol>
+
